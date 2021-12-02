@@ -1,0 +1,18 @@
+[
+  {
+    "id": "de",
+    "name": "deutsch"
+  },
+  {
+    "id": "en",
+    "name": "english"
+  },
+  {
+    "id": "nl",
+    "name": "nederlands"
+  },
+  {
+    "id": "de_LS",
+    "name": "deutsch, leichte Sprache"
+  }
+]

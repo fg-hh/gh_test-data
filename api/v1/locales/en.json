@@ -1,0 +1,382 @@
+{
+  "id": "en",
+  "locale_name": "english",
+  "content_size": 3679694,
+  "created_at": "2021-12-01T16:01:12Z",
+  "updated_at": "2021-12-01T16:01:12Z",
+  "tours": [
+    {
+      "id": 1,
+      "name": "default",
+      "sort_order": 1,
+      "description": "no description",
+      "locations": [
+        {
+          "id": 1,
+          "sort_order": 1,
+          "name": "01",
+          "latitude": "52.2861815",
+          "longitude": "7.6239055",
+          "marker_color": "#E56849",
+          "text_color": "#FFFFFF",
+          "entries": [
+            {
+              "id": 1,
+              "sort_order": 1,
+              "type": "entryPoint",
+              "title": "“From the courtyard to the monastery” - view of today's facility",
+              "description": "",
+              "background": {
+                "image_asset_id": 1,
+                "color": "",
+                "size": "cover",
+                "position": "center"
+              },
+              "assets": [
+                {
+                  "id": 1,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Kloster Gravenhorst, Foto: Michael Jezierny",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 208896,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                },
+                {
+                  "id": 2,
+                  "sort_order": 2,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-en.m4a",
+                  "mime_type": "audio/m4a",
+                  "description": "",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 264440,
+                  "asset_duration": 6,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "sort_order": 2,
+              "type": "selectingGallery",
+              "title": "",
+              "description": "Archeology was able to reconstruct a total of eight construction phases, through which the monastery received its appearance over the centuries.",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 3,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Digital 3D reconstruction of the 1st construction phase of the monastery around 1256",
+                  "title": "1256",
+                  "copyright": "",
+                  "asset_size": 43357,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                },
+                {
+                  "id": 4,
+                  "sort_order": 2,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "DDigital 3D reconstruction of the 2nd construction phase of the monastery around 1299",
+                  "title": "1299",
+                  "copyright": "",
+                  "asset_size": 43357,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                },
+                {
+                  "id": 5,
+                  "sort_order": 3,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Digital 3D reconstruction of the 3rd construction phase of the monastery around 1314",
+                  "title": "1314",
+                  "copyright": "",
+                  "asset_size": 43357,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "sort_order": 3,
+              "type": "regular",
+              "title": "",
+              "description": "The monastery was provided with an economic basis by means of a mill, land and land.",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 6,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Photo taken during the historical reconstruction and the archaeological excavation 1999-2002, Photo: LWL-Archäologie für Westfalen.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 208896,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "sort_order": 4,
+              "type": "regular",
+              "title": "",
+              "description": "The monastery was provided with an economic basis by means of a mill, land and land.",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 7,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Kloster_Gravenhorst_Urk_1024x.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Founding document of the Gravenhorst Monastery, September 17, 1256, LA NRW Dept. Münster, Gravenhorst Monastery Certificate No. 3.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 239338,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sort_order": 2,
+          "name": "02",
+          "latitude": "52.2877570",
+          "longitude": "7.6230415",
+          "marker_color": "#E56849",
+          "text_color": "#FFFFFF",
+          "entries": [
+            {
+              "id": 5,
+              "sort_order": 1,
+              "type": "entryPoint",
+              "title": "Westphalian nobility, politics and lasting remembrance - founding a monastery",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "#A2ABAB",
+                "size": "",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 8,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-en.m4a",
+                  "mime_type": "audio/m4a",
+                  "description": "",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 264440,
+                  "asset_duration": 6,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "sort_order": 2,
+              "type": "regular",
+              "title": "",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 9,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Einritzung_Gravenhorst_Grabplatte.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Donor couple Amalgardis von Budde and Konrad von Brochterbeck, grave slab 1281, Catholic Church St. Bernhard, Gravenhorst; The high personalities can be represented on their grave slabs in the fashion of the time.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 254740,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "sort_order": 3,
+              "type": "regular",
+              "title": "",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 10,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "The Westphalian donor couple confidently remembers the founding of their churches and monasteries. It selects an international image program for this. In the 12th century, the abbot Stephen Harding (right), who was important for the development of the Cistercian order, and the abbot of the Benedictine record, S. Vaast, presented their churches to the Mother of God. Illustration: Jerome's commentary on Ezekiel from StaintVaast, Arras, fol. 104 ‘, written in Cîteaux, around 1135, Dijon, Bibliothèque municipale, Ms 130, catalog, The Cistercians.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 596587,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sort_order": 3,
+          "name": "03",
+          "latitude": "52.2868946",
+          "longitude": "7.6246133",
+          "marker_color": "#E56849",
+          "text_color": "#FFFFFF",
+          "entries": [
+            {
+              "id": 8,
+              "sort_order": 1,
+              "type": "entryPoint",
+              "title": "“In honor of the Blessed Mother Mary” - the west wing",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "#A2ABAB",
+                "size": "",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 11,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-en.m4a",
+                  "mime_type": "audio/m4a",
+                  "description": "",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 264440,
+                  "asset_duration": 6,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "sort_order": 2,
+              "type": "swipingGallery",
+              "title": "",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 11,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Digital 3D reconstruction of the 8 construction phases of the monastery around 1256.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 596587,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                },
+                {
+                  "id": 12,
+                  "sort_order": 2,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "mime_type": "image/jpg",
+                  "description": "Digital 3D reconstruction of the 8 construction phases of the monastery around 1709.",
+                  "title": "",
+                  "copyright": "",
+                  "asset_size": 596587,
+                  "asset_duration": 0,
+                  "autoplay": false,
+                  "updated_at": "2021-11-08T16:01:12Z"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "sort_order": 3,
+              "type": "regular",
+              "title": "",
+              "description": "",
+              "background": {
+                "image_asset_id": null,
+                "color": "",
+                "size": "contain",
+                "position": ""
+              },
+              "assets": [
+                {
+                  "id": 13,
+                  "sort_order": 1,
+                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/introStade.mp4",
+                  "mime_type": "video/mp4",
+                  "description": "The intro from the time capsules in Stade. It's annoying when you hear that often.",
+                  "title": "",
+                  "copyright": "Museum Stade",
+                  "asset_size": 3508623,
+                  "asset_duration": 58,
+                  "autoplay": false,
+                  "updated_at": "2021-11-23T16:22:12Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

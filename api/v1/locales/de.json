@@ -36,7 +36,7 @@
                 {
                   "id": 1,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
                   "mime_type": "image/jpg",
                   "description": "Kloster Gravenhorst, Foto: Michael Jezierny",
                   "title": "",
@@ -49,7 +49,7 @@
                 {
                   "id": 2,
                   "sort_order": 2,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-de.m4a",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/01-de.m4a",
                   "mime_type": "audio/m4a",
                   "description": "",
                   "title": "",
@@ -77,7 +77,7 @@
                 {
                   "id": 3,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Bauphasen-1299.jpg",
                   "mime_type": "image/jpg",
                   "description": "Digitale 3D-Rekonstruktion der 1. Bauphase des Klosters um 1256",
                   "title": "1256",
@@ -90,7 +90,7 @@
                 {
                   "id": 4,
                   "sort_order": 2,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Bauphasen-1299.jpg",
                   "mime_type": "image/jpg",
                   "description": "Digitale 3D-Rekonstruktion der 2. Bauphase des Klosters um 1299",
                   "title": "1299",
@@ -103,7 +103,7 @@
                 {
                   "id": 5,
                   "sort_order": 3,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Bauphasen-1299.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Bauphasen-1299.jpg",
                   "mime_type": "image/jpg",
                   "description": "Digitale 3D-Rekonstruktion der 3. Bauphase des Klosters um 1314",
                   "title": "1314",
@@ -131,7 +131,7 @@
                 {
                   "id": 6,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
                   "mime_type": "image/jpg",
                   "description": "Aufnahme während der bauhistorischen Rekonstruktion und der archäologischen Grabung 1999-2002, Foto: LWL-Archäologie für Westfalen.",
                   "title": "",
@@ -159,7 +159,7 @@
                 {
                   "id": 7,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Kloster_Gravenhorst_Urk_1024x.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Kloster_Gravenhorst_Urk_1024x.jpg",
                   "mime_type": "image/jpg",
                   "description": "Gründungurkunde des Klosters Gravenhorst, 17. September 1256, LA NRW Abt. Münster, Kloster Gravenhorst Urk. Nr. 3.",
                   "title": "",
@@ -198,7 +198,7 @@
                 {
                   "id": 8,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-de.m4a",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/01-de.m4a",
                   "mime_type": "audio/m4a",
                   "description": "",
                   "title": "",
@@ -226,7 +226,7 @@
                 {
                   "id": 9,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Einritzung_Gravenhorst_Grabplatte.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Einritzung_Gravenhorst_Grabplatte.jpg",
                   "mime_type": "image/jpg",
                   "description": "Stifterehepaar Amalgardis von Budde und Konrad von Brochterbeck, Grabplatte 1281, Katholische Kirche St. Bernhard, Gravenhorst; Die hohen Persönlichkeiten lassen sich auf ihren Grabplatten in der Mode der Zeit darstellen.",
                   "title": "",
@@ -254,7 +254,7 @@
                 {
                   "id": 10,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
                   "mime_type": "image/jpg",
                   "description": "Das westfälische Stifterpaar erinnert selbstbewusst seine Kirchen- und Klostergründung. Es wählt dazu ein internationales Bildprogramm. Im 12. Jahrhundert präsentierten auch der für die Entwicklung des Zisterzienserordens bedeutsame Abt Stephen Harding (rechts) und der Abt der Benediktineraktei S. Vaast der Gottesmutter so ihre Kirchen. Abbildung: Ezechielkommentar des Hieronymus aus StaintVaast, Arras, fol. 104‘, entstanden in Cîteaux, um 1135, Dijon, Bibliothèque municipale, Ms 130, Katalog, Die Zisterzienser.",
                   "title": "",
@@ -293,7 +293,7 @@
                 {
                   "id": 11,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/01-de.m4a",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/01-de.m4a",
                   "mime_type": "audio/m4a",
                   "description": "",
                   "title": "",
@@ -321,7 +321,7 @@
                 {
                   "id": 11,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
                   "mime_type": "image/jpg",
                   "description": "Digitale 3D-Rekonstruktion der 8 Bauphasen des Klosters um 1256.",
                   "title": "",
@@ -334,7 +334,7 @@
                 {
                   "id": 12,
                   "sort_order": 2,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/Harding_Kirchengr%C3%BCndung_um_1125.jpg",
                   "mime_type": "image/jpg",
                   "description": "Digitale 3D-Rekonstruktion der 8 Bauphasen des Klosters um 1709.",
                   "title": "",
@@ -362,7 +362,7 @@
                 {
                   "id": 13,
                   "sort_order": 1,
-                  "asset_url": "https://nordleu.de/gravenhorst_cms/assets/introStade.mp4",
+                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/introStade.mp4",
                   "mime_type": "video/mp4",
                   "description": "Das Intro aus den Zeitkapseln in Stade. Schön nervig, wenn man das häufiger hört.",
                   "title": "",

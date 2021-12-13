@@ -36,7 +36,7 @@
                 {
                   "id": 1,
                   "sort_order": 1,
-                  "asset_url": "https://raw.githubusercontent.com/fg-hh/gh_test-data/main/assets/S%C3%BCdgiebel-Westfl%C3%BCgel-vorher.jpg",
+                  "asset_url": "https%3A%2F%2Fraw.githubusercontent.com%2Ffg-hh%2Fgh_test-data%2Fmain%2Fassets%2FS%25C3%25BCdgiebel-Westfl%25C3%25BCgel-vorher.jpg",
                   "mime_type": "image/jpg",
                   "description": "Kloster Gravenhorst, Foto: Michael Jezierny",
                   "title": "",
